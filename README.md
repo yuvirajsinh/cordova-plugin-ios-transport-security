@@ -1,19 +1,13 @@
-## App Transport Security Plugin for Apache Cordova [![npm version](https://badge.fury.io/js/cordova-plugin-transport-security.svg)](http://badge.fury.io/js/cordova-plugin-transport-security)
+## iOS Transport Security Plugin for Apache Cordova [![npm version](https://badge.fury.io/js/cordova-plugin-transport-security.svg)](http://badge.fury.io/js/cordova-plugin-transport-security)
 
 **Cordova / PhoneGap Plugin to allow 'Arbitrary Loads' by adding a declaration to the Info.plist file to bypass the iOS 9 App Transport Security**
 
 ## Install
 
-#### Latest published version on npm (with Cordova CLI >= 5.0.0)
-
-```
-cordova plugin add cordova-plugin-transport-security
-```
-
 #### Latest version from GitHub
 
 ```
-cordova plugin add https://github.com/leecrossley/cordova-plugin-transport-security.git
+cordova plugin add https://github.com/yuvirajsinh/cordova-ios-plugin-transport-security.git
 ```
 
 ## Apple guidance

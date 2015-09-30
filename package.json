@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/leecrossley/cordova-plugin-transport-security.git"
+    "url": "git+https://github.com/yuvirajsinh/cordova-plugin-ios-transport-security.git"
   },
   "keywords": [
     "cordova",
@@ -37,7 +37,7 @@
   ],
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/leecrossley/cordova-plugin-transport-security/issues"
+    "url": "https://github.com/yuvirajsinh/cordova-plugin-ios-transport-security/issues"
   },
-  "homepage": "https://github.com/leecrossley/cordova-plugin-transport-security#readme"
+  "homepage": "https://github.com/yuvirajsinh/cordova-plugin-ios-transport-security#readme"
 }
